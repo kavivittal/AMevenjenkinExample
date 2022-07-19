@@ -20,7 +20,7 @@ public class LoginTest {
     {
     
     
-		String url = "http://192.168.1.127:4444/wd/hub";
+		String url = "http://192.168.0.9:4444/wd/hub";
 
 		// Create an object for Desired Caps to send the appropriate command to Node
 		// machine
